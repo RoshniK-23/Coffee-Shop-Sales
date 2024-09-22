@@ -48,7 +48,7 @@ Usage:
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/retail-store-analysis.git
+git clone https://github.com/RoshniK-23/Coffee-Shop-Sales.git
 Install any necessary dependencies.
 Open the Excel file (Book1.xlsx) and review the different sheets for transaction details, pivot summaries, and dashboard visualizations.
 
