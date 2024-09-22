@@ -25,7 +25,7 @@ Total Bill: Total value of the transaction.
 
 Data Sources:
 
-Sheet1: Raw transactional data with detailed breakdown of each purchase.
+Sheet1: Cleaned Data.
 Pivot Table: Summarized transactional data, organized by day, product type, and store location.
 Dashboard: Empty sheet (can be utilized for creating visual insights).
 
